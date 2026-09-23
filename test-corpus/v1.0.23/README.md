@@ -4,7 +4,7 @@ This directory is a verbatim archive of the `tests/` tree from the upstream Offi
 
 The greenfield implementation baseline of this fork is the current OfficeCLI `v1.0.152`/`main` commit `ffa8a0afbe2e9686abd636368e3da38c50f22131`.
 
-The archived tests are retained as regression inputs only. They are not copied implementations, they do not define the new ONLYOFFICE architecture, and they must not cause a second CLI grammar to be implemented. The current OfficeCLI parser and current semantic behavior remain authoritative.
+The archived tests are retained as raw regression inputs only. They are not copied implementations, they do not define the new ONLYOFFICE architecture, and they are not a compatibility target. The current OfficeCLI parser and current semantic behavior remain authoritative.
 
 Archive facts at import time:
 
